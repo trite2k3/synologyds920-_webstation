@@ -1,6 +1,5 @@
 # synologyds920-_webstation
-get synology DS920+ "Web Station" App from A rating to A+ rating on ssllabs.com, this patchfile is from stock settings
+get synology DS920+ "Web Station" App from A rating to A+ rating on ssllabs.com
 
-to apply patchfile:
-
-patch /usr/local/etc/nginx/sites-enabled/server.webstation.conf patch.p2
+apply to file
+/usr/local/etc/nginx/sites-enabled/server.webstation.conf
